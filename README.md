@@ -2,8 +2,6 @@
 <p>Techie-Template</p>
 <h3>About the Project: 📚</h3>
 <p>A website application that displays information about software company like services, works, features, pricing, and information about the team</p>
-<h3>Live Link / Demo Link: 🔗</h3>
-<p>https://techie-template-22.netlify.app/</p>
 <h3>Technologies Used: </h3>
 <ul>
 <li>HTML5</li>
